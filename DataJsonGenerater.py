@@ -7,7 +7,7 @@ with open("lang.json", "r", encoding="utf-8") as f1:
 with open("charactors.json", "r", encoding="utf-8") as f2:
     char_data = json.load(f2)
 #自分のデータ
-with open("842293157.json", "r", encoding="utf-8") as f3:
+with open("mydata.json", "r", encoding="utf-8") as f3:
     my_data = json.load(f3)
 TEST_ID = 3
 
