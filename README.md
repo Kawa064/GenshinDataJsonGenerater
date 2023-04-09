@@ -4,5 +4,7 @@
 - [characters.json](https://github.com/EnkaNetwork/API-docs/blob/master/store/characters.json)→キャラクター情報
 - [loc.json](https://github.com/EnkaNetwork/API-docs/blob/master/store/loc.json)→ゲームの翻訳情報
 
+- 自分のJson
+    - https://enka.network/api/uid/あなたのUID を保存したもの
 ## 使い方
 - 追記予定
