@@ -1,10 +1,10 @@
 import json
 #必要なファイルのロード
 #言語データ
-with open("lang.json", "r", encoding="utf-8") as f1:
+with open("loc.json", "r", encoding="utf-8") as f1:
     lang_data = json.load(f1)
 #キャラクターの情報
-with open("charactors.json", "r", encoding="utf-8") as f2:
+with open("characters.json", "r", encoding="utf-8") as f2:
     char_data = json.load(f2)
 #自分のデータ
 with open("mydata.json", "r", encoding="utf-8") as f3:
